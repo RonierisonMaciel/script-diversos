@@ -6,6 +6,7 @@ Aqui vai a descrição do seu projeto.
 
 Este repositório contém os seguintes componentes principais:
 
-- [DisplayNameExtractor Script](./sub-README.md): Um script Python para extrair anotações `@DisplayName` de arquivos `.java` e escrevê-las em um arquivo `.json`.
+- [Python - DisplayNameExtractor Script](./sub-README.md): Um script Python para extrair anotações `@DisplayName` de arquivos `.java` e escrevê-las em um arquivo `.json`.
+- [Shell Script - ](./sub-README2.md)
 
 Por favor, veja o [README](./sub-README.md) no diretório do script `DisplayNameExtractor` para mais detalhes.
