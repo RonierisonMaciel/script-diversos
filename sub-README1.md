@@ -35,7 +35,7 @@ Ao concluir a execução, o script imprimirá uma mensagem de confirmação: "Es
 Para executar este script, você precisa ter o Bash instalado no seu sistema. No terminal, navegue até o diretório onde o script está localizado e execute o seguinte comando:
 
 ```bash
-./nome_do_script.sh
+./create-folder.sh
 ```
 
 Substitua "nome_do_script.sh" pelo nome do seu script.
@@ -43,5 +43,5 @@ Substitua "nome_do_script.sh" pelo nome do seu script.
 Assegure-se de que o script tenha permissões de execução. Caso contrário, você pode dar permissões de execução usando o seguinte comando:
 
 ```bash
-chmod +x nome_do_script.sh
+chmod +x create-folder.sh
 ```
