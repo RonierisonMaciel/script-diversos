@@ -6,7 +6,8 @@ Aqui vai a descrição do seu projeto.
 
 Este repositório contém os seguintes componentes principais:
 
-- [Python - DisplayNameExtractor Script](./sub-README.md): Um script Python para extrair anotações `@DisplayName` de arquivos `.java` e escrevê-las em um arquivo `.json`.
-- [Shell Script - Create Folder](./sub-README1.md): Este script Bash automatiza a criação de uma estrutura hierárquica de diretórios para organizar `seções`, `dias` e `lições`, útil para gerenciamento de conteúdo em projetos educacionais ou de treinamento.
+- [Python - Extractor text](./display_name_extractor.md): Um script Python para extrair anotações `@DisplayName` de arquivos `.java` e escrevê-las em um arquivo `.json`.
+- [Shell Script - Create folder](./create-folder.md): Este script Bash automatiza a criação de uma estrutura hierárquica de diretórios para organizar `seções`, `dias` e `lições`, útil para gerenciamento de conteúdo em projetos educacionais ou de treinamento.
+- [Python - Organize files](./organize_files.md): Este script Python organiza arquivos em um diretório específico, classificando-os em subdiretórios baseados em suas extensões de arquivo
 
 <!-- Por favor, veja o [README](./sub-README.md) no diretório do script `DisplayNameExtractor` para mais detalhes. -->

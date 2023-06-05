@@ -1,4 +1,4 @@
-# README: Criação de Estrutura de Pastas para Seções, Dias e Lições 
+# README: Criação de Estrutura de Pastas para Seções, Dias e Lições
 
 Este script Bash automatiza a criação de uma estrutura hierárquica de diretórios para organizar seções, dias e lições, útil para gerenciamento de conteúdo em projetos educacionais ou de treinamento.
 
