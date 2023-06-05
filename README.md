@@ -1,13 +1,27 @@
 # Script Diversos
 
-Aqui vai a descrição do seu projeto.
+Bem-vindo ao repositório "script diversos"! Este repositório é uma coleção versátil de scripts úteis, destinada a facilitar diversas tarefas do dia a dia. Ele foi criado com o objetivo de oferecer um conjunto diversificado de ferramentas que podem ser usadas em várias situações.
+
+Atualmente, o repositório contém scripts em Python e Shell Script. Esses scripts vão desde a organização de arquivos em um diretório até a execução de tarefas específicas de sistema operacional. A beleza deste repositório está na sua variedade e na sua capacidade de se expandir para abranger cada vez mais linguagens e funcionalidades.
+
+## Próximos passos
+
+Estamos planejando expandir ainda mais a variedade de scripts em nosso repositório. Isto significa adicionar mais scripts Python e Shell, bem como introduzir scripts em outras linguagens como JavaScript, Ruby e mais. Seja qual for a tarefa, nosso objetivo é ter um script que possa ajudar.
+
+## Contribuições
+
+Contribuições são muito bem-vindas! Se você tem um script útil que gostaria de adicionar, fique à vontade para abrir um Pull Request. Por favor, assegure-se de que seu código siga as melhores práticas de codificação para a linguagem correspondente e inclua comentários explicativos quando necessário.
+
+## Uso
+
+Cada script deve incluir comentários sobre o que ele faz e como usá-lo. Na maioria dos casos, você pode executar um script diretamente a partir da linha de comando.
+
+Obrigado por visitar, esperamos que você encontre o que precisa aqui! E lembre-se, este repositório está sempre crescendo e mudando, então certifique-se de voltar regularmente para ver as novidades.
 
 ## Estrutura do Repositório
 
 Este repositório contém os seguintes componentes principais:
 
-- [Python - Extractor text](./markdown-files/display_name_extractor.md): Um script Python para extrair anotações `@DisplayName` de arquivos `.java` e escrevê-las em um arquivo `.json`.
-- [Shell Script - Create folder](./markdown-files/create-folder.md): Este script Bash automatiza a criação de uma estrutura hierárquica de diretórios para organizar `seções`, `dias` e `lições`, útil para gerenciamento de conteúdo em projetos educacionais ou de treinamento.
-- [Python - Organize files](./markdown-files/organize_files.md): Este script Python organiza arquivos em um diretório específico, classificando-os em subdiretórios baseados em suas extensões de arquivo
+- `Python` e `Shell Script` - possui um conjunto de script para facilitar tarefas do dia a dia.
 
-<!-- Por favor, veja o [README](./sub-README.md) no diretório do script `DisplayNameExtractor` para mais detalhes. -->
+Por favor, veja o [README](./markdown-files/) de cada script para mais detalhes, o arquivo `.md` está descrito com o mesmo nome do script.
