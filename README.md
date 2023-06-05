@@ -24,4 +24,4 @@ Este repositório contém os seguintes componentes principais:
 
 - `Python` e `Shell Script` - possui um conjunto de script para facilitar tarefas do dia a dia.
 
-Por favor, veja o [README](./markdown-files/) de cada script para mais detalhes, o arquivo `.md` está descrito com o mesmo nome do script.
+Por favor, veja os [READMEs](./markdown-files/) de cada script para mais detalhes, o arquivo `.md` está descrito com o mesmo nome do script.
