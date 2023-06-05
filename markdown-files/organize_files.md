@@ -47,7 +47,3 @@ Este script Python organiza arquivos em um diretório específico, classificando
    ```
 
 10. O script irá organizar os arquivos no diretório especificado, criando subdiretórios conforme necessário e movendo os arquivos para os subdiretórios apropriados.
-
-## Notas
-
-Este script é bastante básico e serve principalmente como exemplo de práticas de Clean Code. Ele não considera alguns casos, como conflitos de nome de arquivo (quando dois arquivos têm o mesmo nome e extensão). Use-o por sua conta e risco e, idealmente, em um diretório de teste primeiro para garantir que ele funciona conforme esperado para o seu caso de uso.
