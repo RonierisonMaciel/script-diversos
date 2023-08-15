@@ -1,11 +1,1 @@
-beautifulsoup4==4.12.2
-charset-normalizer==3.1.0
-idna==3.4
 mysql-connector-python==8.1.0
-protobuf==4.21.12
-pypdf==3.11.0
-requests==2.31.0
-soupsieve==2.4.1
-sqlmap==1.7.6
-typing_extensions==4.6.3
-urllib3==2.0.3
