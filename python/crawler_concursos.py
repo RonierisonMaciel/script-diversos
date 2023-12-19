@@ -1,3 +1,4 @@
+from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -65,9 +66,9 @@ def main():
         "listings": job_listings
     }
 
-    save_to_json(final_data, 'docente_professor.json')
-    print(f"Arquivo 'docente_professor.json' salvo com sucesso! Total de listagens: {len(job_listings)}")
-
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M')
+    save_to_json(final_data, f'docente_{timestamp}.json')
+    print(f"Arquivo 'docente_professor.json' salvo com sucesso! Total de concursos: {len(job_listings)}")
 
 if __name__ == "__main__":
     main()
